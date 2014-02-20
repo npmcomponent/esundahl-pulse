@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-pulse",
+  "description": "pulse animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "pulse"
+  ],
+  "styles": [
+    "pulse.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
